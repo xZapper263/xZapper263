@@ -37,8 +37,7 @@ Estoy trabajando en **Project Genesis**, una iniciativa enfocada en crear herram
 
 Creado por:
 
-**xZapper263**  
-(Breidy Martínez V)
+**xZapper263**
 
 ---
 
