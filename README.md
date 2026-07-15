@@ -1,8 +1,8 @@
 # 👋 Hola, soy **xZapper263**
 
-Soy **Breidy Martínez V**, conocido en internet como **xZapper263**.
+Soy **xZapper263**.
 
-Soy un desarrollador en formación apasionado por la tecnología, la creación de software y convertir ideas en proyectos reales mediante código 💻🚀.
+Soy un "desarrollador" en formación apasionado por la tecnología, la creación de software y convertir ideas en proyectos reales mediante código 💻🚀.
 
 Actualmente exploro el desarrollo web, la automatización, la inteligencia artificial y la construcción de herramientas digitales. Me gusta aprender, experimentar y compartir el proceso de crear.
 
